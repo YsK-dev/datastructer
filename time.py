@@ -30,7 +30,6 @@ if (findPair(a, n, z)) :
 	print("True")
 else :
 	print("False")
-	
  # type: ignore
  
 
